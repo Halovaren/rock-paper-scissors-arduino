@@ -1,0 +1,75 @@
+C:\Users\Althea Pangilinan\source\repos\IT152PP\IT152PP\bin\Debug\IT152PP.exe.config
+C:\Users\Althea Pangilinan\source\repos\IT152PP\IT152PP\bin\Debug\IT152PP.exe
+C:\Users\Althea Pangilinan\source\repos\IT152PP\IT152PP\bin\Debug\IT152PP.pdb
+C:\Users\Althea Pangilinan\source\repos\IT152PP\IT152PP\obj\Debug\IT152PP.csproj.AssemblyReference.cache
+C:\Users\Althea Pangilinan\source\repos\IT152PP\IT152PP\obj\Debug\IT152PP.Form1.resources
+C:\Users\Althea Pangilinan\source\repos\IT152PP\IT152PP\obj\Debug\IT152PP.Properties.Resources.resources
+C:\Users\Althea Pangilinan\source\repos\IT152PP\IT152PP\obj\Debug\IT152PP.csproj.GenerateResource.cache
+C:\Users\Althea Pangilinan\source\repos\IT152PP\IT152PP\obj\Debug\IT152PP.csproj.CoreCompileInputs.cache
+C:\Users\Althea Pangilinan\source\repos\IT152PP\IT152PP\obj\Debug\IT152PP.exe
+C:\Users\Althea Pangilinan\source\repos\IT152PP\IT152PP\obj\Debug\IT152PP.pdb
+C:\Users\Althea Pangilinan\source\repos\IT152PP\IT152PP\obj\Debug\IT152PP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Althea Pangilinan\OneDrive - Malayan Colleges Laguna\Desktop\IT152PP\IT152PP\bin\Debug\IT152PP.exe.config
+C:\Users\Althea Pangilinan\OneDrive - Malayan Colleges Laguna\Desktop\IT152PP\IT152PP\bin\Debug\IT152PP.exe
+C:\Users\Althea Pangilinan\OneDrive - Malayan Colleges Laguna\Desktop\IT152PP\IT152PP\bin\Debug\IT152PP.pdb
+C:\Users\Althea Pangilinan\OneDrive - Malayan Colleges Laguna\Desktop\IT152PP\IT152PP\obj\Debug\IT152PP.csproj.AssemblyReference.cache
+C:\Users\Althea Pangilinan\OneDrive - Malayan Colleges Laguna\Desktop\IT152PP\IT152PP\obj\Debug\IT152PP.Form1.resources
+C:\Users\Althea Pangilinan\OneDrive - Malayan Colleges Laguna\Desktop\IT152PP\IT152PP\obj\Debug\IT152PP.Form2.resources
+C:\Users\Althea Pangilinan\OneDrive - Malayan Colleges Laguna\Desktop\IT152PP\IT152PP\obj\Debug\IT152PP.Properties.Resources.resources
+C:\Users\Althea Pangilinan\OneDrive - Malayan Colleges Laguna\Desktop\IT152PP\IT152PP\obj\Debug\IT152PP.csproj.GenerateResource.cache
+C:\Users\Althea Pangilinan\OneDrive - Malayan Colleges Laguna\Desktop\IT152PP\IT152PP\obj\Debug\IT152PP.csproj.CoreCompileInputs.cache
+C:\Users\Althea Pangilinan\OneDrive - Malayan Colleges Laguna\Desktop\IT152PP\IT152PP\obj\Debug\IT152PP.exe
+C:\Users\Althea Pangilinan\OneDrive - Malayan Colleges Laguna\Desktop\IT152PP\IT152PP\obj\Debug\IT152PP.pdb
+C:\Users\pvsal\OneDrive\Desktop\FINAL IT152P Project\IT152PP (6)\IT152PP\IT152PP\obj\Debug\IT152PP.csproj.AssemblyReference.cache
+C:\Users\pvsal\OneDrive\Desktop\FINAL IT152P Project\IT152PP (6)\IT152PP\IT152PP\obj\Debug\IT152PP.Form1.resources
+C:\Users\pvsal\OneDrive\Desktop\FINAL IT152P Project\IT152PP (6)\IT152PP\IT152PP\obj\Debug\IT152PP.Form2.resources
+C:\Users\pvsal\OneDrive\Desktop\FINAL IT152P Project\IT152PP (6)\IT152PP\IT152PP\obj\Debug\IT152PP.Properties.Resources.resources
+C:\Users\pvsal\OneDrive\Desktop\FINAL IT152P Project\IT152PP (6)\IT152PP\IT152PP\obj\Debug\IT152PP.csproj.GenerateResource.cache
+C:\Users\pvsal\OneDrive\Desktop\FINAL IT152P Project\IT152PP (6)\IT152PP\IT152PP\obj\Debug\IT152PP.csproj.CoreCompileInputs.cache
+C:\Users\pvsal\OneDrive\Desktop\FINAL IT152P Project\IT152PP (6)\IT152PP\IT152PP\bin\Debug\IT152PP.exe.config
+C:\Users\pvsal\OneDrive\Desktop\FINAL IT152P Project\IT152PP (6)\IT152PP\IT152PP\bin\Debug\IT152PP.exe
+C:\Users\pvsal\OneDrive\Desktop\FINAL IT152P Project\IT152PP (6)\IT152PP\IT152PP\bin\Debug\IT152PP.pdb
+C:\Users\pvsal\OneDrive\Desktop\FINAL IT152P Project\IT152PP (6)\IT152PP\IT152PP\obj\Debug\IT152PP.exe
+C:\Users\pvsal\OneDrive\Desktop\FINAL IT152P Project\IT152PP (6)\IT152PP\IT152PP\obj\Debug\IT152PP.pdb
+C:\Users\pvsal\OneDrive\Desktop\FINAL FINAL FINAL\IT152PP\IT152PP\bin\Debug\IT152PP.exe.config
+C:\Users\pvsal\OneDrive\Desktop\FINAL FINAL FINAL\IT152PP\IT152PP\bin\Debug\IT152PP.exe
+C:\Users\pvsal\OneDrive\Desktop\FINAL FINAL FINAL\IT152PP\IT152PP\bin\Debug\IT152PP.pdb
+C:\Users\pvsal\OneDrive\Desktop\FINAL FINAL FINAL\IT152PP\IT152PP\obj\Debug\IT152PP.csproj.AssemblyReference.cache
+C:\Users\pvsal\OneDrive\Desktop\FINAL FINAL FINAL\IT152PP\IT152PP\obj\Debug\IT152PP.Form1.resources
+C:\Users\pvsal\OneDrive\Desktop\FINAL FINAL FINAL\IT152PP\IT152PP\obj\Debug\IT152PP.Form2.resources
+C:\Users\pvsal\OneDrive\Desktop\FINAL FINAL FINAL\IT152PP\IT152PP\obj\Debug\IT152PP.Form3.resources
+C:\Users\pvsal\OneDrive\Desktop\FINAL FINAL FINAL\IT152PP\IT152PP\obj\Debug\IT152PP.Properties.Resources.resources
+C:\Users\pvsal\OneDrive\Desktop\FINAL FINAL FINAL\IT152PP\IT152PP\obj\Debug\IT152PP.csproj.GenerateResource.cache
+C:\Users\pvsal\OneDrive\Desktop\FINAL FINAL FINAL\IT152PP\IT152PP\obj\Debug\IT152PP.csproj.CoreCompileInputs.cache
+C:\Users\pvsal\OneDrive\Desktop\FINAL FINAL FINAL\IT152PP\IT152PP\obj\Debug\IT152PP.exe
+C:\Users\pvsal\OneDrive\Desktop\FINAL FINAL FINAL\IT152PP\IT152PP\obj\Debug\IT152PP.pdb
+C:\Users\pvsal\OneDrive\Desktop\IT152P\IT152P and IT153P Module 3 Project\RPSwithVS\IT152PP\IT152PP\bin\Debug\IT152PP.exe.config
+C:\Users\pvsal\OneDrive\Desktop\IT152P\IT152P and IT153P Module 3 Project\RPSwithVS\IT152PP\IT152PP\bin\Debug\IT152PP.exe
+C:\Users\pvsal\OneDrive\Desktop\IT152P\IT152P and IT153P Module 3 Project\RPSwithVS\IT152PP\IT152PP\bin\Debug\IT152PP.pdb
+C:\Users\pvsal\OneDrive\Desktop\IT152P\IT152P and IT153P Module 3 Project\RPSwithVS\IT152PP\IT152PP\bin\Debug\MySql.Data.dll
+C:\Users\pvsal\OneDrive\Desktop\IT152P\IT152P and IT153P Module 3 Project\RPSwithVS\IT152PP\IT152PP\obj\Debug\IT152PP.csproj.AssemblyReference.cache
+C:\Users\pvsal\OneDrive\Desktop\IT152P\IT152P and IT153P Module 3 Project\RPSwithVS\IT152PP\IT152PP\obj\Debug\IT152PP.Properties.Resources.resources
+C:\Users\pvsal\OneDrive\Desktop\IT152P\IT152P and IT153P Module 3 Project\RPSwithVS\IT152PP\IT152PP\obj\Debug\IT152PP.csproj.GenerateResource.cache
+C:\Users\pvsal\OneDrive\Desktop\IT152P\IT152P and IT153P Module 3 Project\RPSwithVS\IT152PP\IT152PP\obj\Debug\IT152PP.csproj.CoreCompileInputs.cache
+C:\Users\pvsal\OneDrive\Desktop\IT152P\IT152P and IT153P Module 3 Project\RPSwithVS\IT152PP\IT152PP\obj\Debug\IT152PP.csproj.CopyComplete
+C:\Users\pvsal\OneDrive\Desktop\IT152P\IT152P and IT153P Module 3 Project\RPSwithVS\IT152PP\IT152PP\obj\Debug\IT152PP.exe
+C:\Users\pvsal\OneDrive\Desktop\IT152P\IT152P and IT153P Module 3 Project\RPSwithVS\IT152PP\IT152PP\obj\Debug\IT152PP.pdb
+C:\Users\Althea Pangilinan\OneDrive - Malayan Colleges Laguna\Desktop\hbd\IT152PP\IT152PP\obj\Debug\IT152PP.csproj.AssemblyReference.cache
+C:\Users\Althea Pangilinan\OneDrive - Malayan Colleges Laguna\Desktop\hbd\IT152PP\IT152PP\obj\Debug\IT152PP.exe
+C:\Users\Althea Pangilinan\OneDrive - Malayan Colleges Laguna\Desktop\hbd\IT152PP\IT152PP\obj\Debug\IT152PP.pdb
+C:\Users\Althea Pangilinan\OneDrive - Malayan Colleges Laguna\Desktop\hbd\IT152PP\IT152PP\bin\Debug\IT152PP.exe.config
+C:\Users\Althea Pangilinan\OneDrive - Malayan Colleges Laguna\Desktop\hbd\IT152PP\IT152PP\bin\Debug\IT152PP.exe
+C:\Users\Althea Pangilinan\OneDrive - Malayan Colleges Laguna\Desktop\hbd\IT152PP\IT152PP\bin\Debug\IT152PP.pdb
+C:\Users\Althea Pangilinan\OneDrive - Malayan Colleges Laguna\Desktop\hbd\IT152PP\IT152PP\obj\Debug\IT152PP.Form1.resources
+C:\Users\Althea Pangilinan\OneDrive - Malayan Colleges Laguna\Desktop\hbd\IT152PP\IT152PP\obj\Debug\IT152PP.Form2.resources
+C:\Users\Althea Pangilinan\OneDrive - Malayan Colleges Laguna\Desktop\hbd\IT152PP\IT152PP\obj\Debug\IT152PP.Form3.resources
+C:\Users\Althea Pangilinan\OneDrive - Malayan Colleges Laguna\Desktop\hbd\IT152PP\IT152PP\obj\Debug\IT152PP.Form4.resources
+C:\Users\Althea Pangilinan\OneDrive - Malayan Colleges Laguna\Desktop\hbd\IT152PP\IT152PP\obj\Debug\IT152PP.Form5.resources
+C:\Users\Althea Pangilinan\OneDrive - Malayan Colleges Laguna\Desktop\hbd\IT152PP\IT152PP\obj\Debug\IT152PP.Properties.Resources.resources
+C:\Users\Althea Pangilinan\OneDrive - Malayan Colleges Laguna\Desktop\hbd\IT152PP\IT152PP\obj\Debug\IT152PP.csproj.GenerateResource.cache
+C:\Users\Althea Pangilinan\OneDrive - Malayan Colleges Laguna\Desktop\hbd\IT152PP\IT152PP\obj\Debug\IT152PP.csproj.CoreCompileInputs.cache
+C:\Users\pvsal\OneDrive\Desktop\IT152P\IT152P and IT153P Module 3 Project\RPSwithVS\IT152PP\IT152PP\obj\Debug\IT152PP.Gameplay.resources
+C:\Users\pvsal\OneDrive\Desktop\IT152P\IT152P and IT153P Module 3 Project\RPSwithVS\IT152PP\IT152PP\obj\Debug\IT152PP.MainMenu.resources
+C:\Users\pvsal\OneDrive\Desktop\IT152P\IT152P and IT153P Module 3 Project\RPSwithVS\IT152PP\IT152PP\obj\Debug\IT152PP.Help.resources
+C:\Users\pvsal\OneDrive\Desktop\IT152P\IT152P and IT153P Module 3 Project\RPSwithVS\IT152PP\IT152PP\obj\Debug\IT152PP.EnterPlayerNames.resources
+C:\Users\pvsal\OneDrive\Desktop\IT152P\IT152P and IT153P Module 3 Project\RPSwithVS\IT152PP\IT152PP\obj\Debug\IT152PP.MatchHistory.resources
